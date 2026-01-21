@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    font-family: Arial;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-container {
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    width: 320px;
+    text-align: center;
+}
